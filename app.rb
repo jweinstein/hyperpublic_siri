@@ -1,6 +1,4 @@
-require 'rubygems'
 require 'sinatra'
-require 'twiliolib'
 require 'builder'
 
 post '/' do
